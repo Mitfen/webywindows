@@ -1,4 +1,4 @@
-# webywindows
+# WebyWindows
 A completly Free XML driven CMS
 
 <b>Project Site</b><br>
